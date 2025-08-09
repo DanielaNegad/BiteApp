@@ -13,4 +13,9 @@
         android:id="@+id/createPostFragment"
         android:name="com.example.biteapp.ui.createpost.CreatePostFragment"
         android:label="Create Post" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.biteapp.ui.profile.ProfileFragment"
+        android:label="Profile" />
+
 </navigation>

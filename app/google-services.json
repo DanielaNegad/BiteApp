@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594880995254",
+    "project_id": "biteapp-50972",
+    "storage_bucket": "biteapp-50972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594880995254:android:c8d53af50c4f57b5d4eb17",
+        "android_client_info": {
+          "package_name": "com.example.biteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB4pjiQGmKKWmIb9SOHZ6Dr69KBGm2-zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
